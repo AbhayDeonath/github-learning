@@ -12,3 +12,9 @@
 - Learn how to create and manage files.
 - Learn Git using the terminal.
 - Connect GitHub to VS Code.
+
+## Working locally
+
+- Installed Git on my Mac.
+- Cloned my GitHub repository onto my Mac.
+- Checked repository status using the terminal.
